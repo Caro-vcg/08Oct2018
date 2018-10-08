@@ -1,0 +1,13 @@
+size(600,600);
+fill(#078E4E);
+rectMode(CENTER);
+rect(100,300,200,600);
+fill(255);
+rectMode(CENTER);
+rect(300,300,200,600);
+fill(255,0,0);
+rectMode(CENTER);
+rect(500,300,200,600);
+fill(#835305);
+ellipseMode(CENTER);
+ellipse(300,300,150,150);
